@@ -1,0 +1,8 @@
+.players {
+display: flex;
+justify-content: center;
+align-content: center;
+}
+.player-one {
+    border-style: solid;
+}
