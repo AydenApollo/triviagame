@@ -1,8 +1,9 @@
-.players {
+.wrapper {
 display: flex;
 justify-content: center;
 align-content: center;
+color: blue;
 }
-.player-one {
-    border-style: solid;
+#playerone {
+    background-color: black;
 }
