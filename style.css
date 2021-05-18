@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: lightslategray;
+}
+
+#wrapper {
+    display: grid;
+    justify-content: center;
+    align-content: center;
+}
+
+#playerTurn {
+    font-size: large;
+}
+
+#options {
+    display: flex;
+    justify-content: space-evenly;
+    font-size: larger;
+}
+
+#start {
+    background-color: lightgray;
+}
+
+#reload {
+    background-color: lightgray;
+}
+
+#answer1 {
+    background-color: lightgray;
+}
+
+#answer2 {
+    background-color: lightgray;
+}
+
+#answer3 {
+    background-color: lightgray;
+}
+
+#answer4 {
+    background-color: lightgray; 
+}
